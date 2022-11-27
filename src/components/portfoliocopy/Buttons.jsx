@@ -1,6 +1,6 @@
-import React from "react";
-import Data from "./Data";
-import {useState} from "react";
+import React from "react"
+import Data from "./Data"
+import {useState} from "react"
 import './button.css'
 
 const Buttons = ({ filterItem, setItem, menuItems }) => {
@@ -27,16 +27,12 @@ const Buttons = ({ filterItem, setItem, menuItems }) => {
         <button id='#Machine-Learning' onClick={() => { return filterItem("Machine-Learning"),setActiveBut('#Machine-Learning')}} className={activeBut==='#Machine-Learning'?'active':''}>
           Machine-Learning
         </button> 
-{/* 
-        <button id='#Data-Analytics' onClick={() => { return filterItem("Data-Analytics"),setActiveBut('#Data-Analytics')}} className={activeBut==='#Data-Analytics'?'active':''}>
-          Data-Analytics
-        </button>  */}
 
 
         </div>
        </div>
     </>
-  );
-};
+  )
+}
  
-export default Buttons;
+export default Buttons
