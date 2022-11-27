@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio-website/static/css/main.7dd1c00b.css",
+    "main.js": "/Portfolio-website/static/js/main.e37dca85.js",
+    "static/media/video1.mp4": "/Portfolio-website/static/media/video1.910e8a452197d2018756.mp4",
+    "static/media/VirtualP.png": "/Portfolio-website/static/media/VirtualP.402062e16a42606ee8ab.png",
+    "static/media/RubikC.png": "/Portfolio-website/static/media/RubikC.b74444886b30c758770b.png",
+    "static/media/cv.pdf": "/Portfolio-website/static/media/cv.27c9eb66c5c0182121a6.pdf",
+    "static/media/me-about.png": "/Portfolio-website/static/media/me-about.7c3189ce49123b4e33a4.png",
+    "static/media/SnakeG.png": "/Portfolio-website/static/media/SnakeG.eb39b5c8f6d9a196bd54.png",
+    "static/media/EcoS.png": "/Portfolio-website/static/media/EcoS.2304228755e9d9ba5187.png",
+    "static/media/EcommerceW.png": "/Portfolio-website/static/media/EcommerceW.f45979c8644a5a2cff74.png",
+    "static/media/VoiceN.png": "/Portfolio-website/static/media/VoiceN.29ce5d0cb2c439ec14cf.png",
+    "static/media/WeatherA.png": "/Portfolio-website/static/media/WeatherA.1c2894497134489b481e.png",
+    "index.html": "/Portfolio-website/index.html",
+    "main.7dd1c00b.css.map": "/Portfolio-website/static/css/main.7dd1c00b.css.map",
+    "main.e37dca85.js.map": "/Portfolio-website/static/js/main.e37dca85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dd1c00b.css",
+    "static/js/main.e37dca85.js"
+  ]
+}
